@@ -1,7 +1,7 @@
 # Meu Portfólio
 
 Este projeto é um portfólio pessoal simples utilizando  HTML, CSS e JavaScript.
-
+Para cadeira de introdução a computação
 ## Estrutura
 
 - `index.html`: Página inicial com uma introdução, uma foto e botão para alterar o fundo.
